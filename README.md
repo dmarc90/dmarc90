@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-### "Befor labs and lectures, there was insight." 
+### "Before labs and lectures, there was insight." 
 
 - 📍  Living in SP
 - 💻 Data Science and Web Development student
