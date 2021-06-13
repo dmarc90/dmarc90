@@ -1,10 +1,10 @@
-# Welcome to my profile! 👋
+# Hello there! 👋
 
-### "Believe in the Ideal, Not the idol." 
+### "Befor labs and lecture, there was insight." 
 
 - 📍  Living in SP
 - 💻 Data Science and Web Development student
-- 🌱 Learning Python
+- 🌱 Learning Python, SQL and Machine Learning basics
 
 Artificial Inteligence enthusiast. Always ready to learn and share knowledge
 
