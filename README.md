@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my profile! 👋
 
-<!--
-**dmarc90/dmarc90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Believe in the Ideal, Not the idol." 
 
-Here are some ideas to get you started:
+- 📍  Living in SP
+- 💻 Data Science and Web Development student
+- 🌱 Learning Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Artificial Inteligence enthusiast. Always ready to learn and share knowledge
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-marcelino-41a8601ba/)](https://www.linkedin.com/in/diego-marcelino-41a8601ba/)  [![Gmail Badge](https://img.shields.io/badge/-dmarczoo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmarczoo@gmail.com)](mailto:dmarczoo@gmail.com)
