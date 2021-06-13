@@ -1,10 +1,11 @@
 # Hello there! 👋
 
-### "Befor labs and lecture, there was insight." 
+### "Befor labs and lectures, there was insight." 
 
 - 📍  Living in SP
 - 💻 Data Science and Web Development student
 - 🌱 Learning Python, SQL and Machine Learning basics
+- 🎮 Game industry enthusiast
 
 Artificial Inteligence enthusiast. Always ready to learn and share knowledge
 
