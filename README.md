@@ -4,7 +4,7 @@
 
 - 📍  Living in SP
 - 💻 Data Science and Web Development student
-- 🌱 Learning Python, SQL and Machine Learning basics
+- 🌱 Learning Front end development, React and nodeJS
 - 🎮 Game industry enthusiast
 
 Artificial Inteligence enthusiast. Always ready to learn and share knowledge
