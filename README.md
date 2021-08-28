@@ -3,7 +3,7 @@
 ### "Before labs and lectures, there was insight." 
 
 - 📍  Living in SP
-- 💻 Data Science and Web Development student
+- 💻 Cybersecurity and Web Development student
 - 🌱 Learning Front end development, React and nodeJS
 - 🎮 Game industry enthusiast
 
