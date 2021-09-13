@@ -4,10 +4,10 @@
 
 - 📍  Living in SP
 - 💻 Cybersecurity and Web Development student
-- 🌱 Learning Front end development, React and nodeJS
+- 🌱 Learning Front End development, C# and .NET
 - 🎮 Game industry enthusiast
 
-Artificial Inteligence enthusiast. Always ready to learn and share knowledge
+Always ready to learn and share knowledge
 
 Reach me out 👇🏼
 
