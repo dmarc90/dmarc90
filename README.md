@@ -3,7 +3,7 @@
 ### "Before labs and lectures, there was insight." 
 
 - 📍  Living in SP
-- 💻 Cybersecurity and Web Development student
+- 💻 Analysis and Systems Development student
 - 🌱 Learning Front End development, C# and .NET
 - 🎮 Game industry enthusiast
 
