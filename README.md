@@ -4,7 +4,7 @@
 
 - 📍  Living in SP
 - 💻 Analysis and Systems Development student
-- 🌱 Learning Front End development, C# and .NET
+- 🌱 Learning Azure DevOps, C# and .NET
 - 🎮 Game industry enthusiast
 
  <div>
