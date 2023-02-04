@@ -3,8 +3,7 @@
 ### "Before labs and lectures, there was insight." 
 
 - 📍  Living in SP
-- 💻 Analysis and Systems Development student
-- 🌱 Learning Cloud Engineering, Linux and Infrastructure as a code
+- 💻 Cloud Engineer
 - 🎮 Game industry enthusiast
 
  <div>
